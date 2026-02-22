@@ -1,8 +1,33 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss";
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@theme {
+  --color-industrial-50: #f0f9ff;
+  --color-industrial-100: #e0f2fe;
+  --color-industrial-200: #bae6fd;
+  --color-industrial-300: #7dd3fc;
+  --color-industrial-400: #38bdf8;
+  --color-industrial-500: #0ea5e9;
+  --color-industrial-600: #0284c7;
+  --color-industrial-700: #0369a1;
+  --color-industrial-800: #075985;
+  --color-industrial-900: #0c4a6e;
+
+  --color-metal-50: #f8fafc;
+  --color-metal-100: #f1f5f9;
+  --color-metal-200: #e2e8f0;
+  --color-metal-300: #cbd5e1;
+  --color-metal-400: #94a3b8;
+  --color-metal-500: #64748b;
+  --color-metal-600: #475569;
+  --color-metal-700: #334155;
+  --color-metal-800: #1e293b;
+  --color-metal-900: #0f172a;
+
+  --font-display: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;
