@@ -3,7 +3,7 @@ const Services = () => {
     {
       title: "Machining Services",
       icon: "⚙️",
-      description: "Precision machining with advanced equipment and skilled operators",
+      description: "Red Seal machinist-led precision machining in steel, aluminum, exotic alloys, and plastics",
       features: ["Lathe Services", "Milling, Drilling, Boring & Shaping", "Computer-Aided Design (CAD)", "Reverse Engineering"]
     },
     {
@@ -15,8 +15,8 @@ const Services = () => {
     {
       title: "Field Services",
       icon: "🚛",
-      description: "On-site services with mobile equipment and experienced technicians",
-      features: ["Mobile repair units", "On-site machining", "Emergency services", "Equipment installation"]
+      description: "On-site diagnostic and alignment services with experienced technicians",
+      features: ["Vibration Analysis & Thermal Imaging", "Laser Shaft Alignment", "Laser Belt Alignment", "On-site & in-shop solutions"]
     },
     {
       title: "Fabrication & Repair",
@@ -28,7 +28,7 @@ const Services = () => {
       title: "Pump Rebuilds",
       icon: "💧",
       description: "Complete pump rebuild services for all types of industrial pumps",
-      features: ["Tear down & inspection", "Component reconstruction", "Rotor balancing", "Surface treatment"]
+      features: ["Tear down & inspection", "Component reconstruction", "Rotor balancing", "Circulating, condensate, fire, gear, submersible, vacuum & vertical turbine pumps"]
     },
     {
       title: "Craning & Rigging",

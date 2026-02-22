@@ -18,7 +18,7 @@ const Navigation = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-industrial-600 to-industrial-800 bg-clip-text text-transparent">
-                Peak Precision
+                Peak Precision Machining
               </h1>
             </div>
           </div>
