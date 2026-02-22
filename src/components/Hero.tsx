@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-metal-50 to-industrial-50">
+    <section id="home" className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-metal-50 to-industrial-50 pt-16">
       <div className="absolute inset-0 bg-grid-metal-100/50 [mask-image:linear-gradient(0deg,transparent,black)]"></div>
       
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
